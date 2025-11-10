@@ -42,8 +42,6 @@ Or open it directly through VS Code.
 * How to visualize patterns and distributions using Matplotlib & Seaborn
 * How to approach beginner-level data analysis tasks in a structured workflow
 
-Liked it? Smash that ⭐ and keep exploring.
-
 ## Future Improvements
 * Add real-world datasets
 * Perform deeper statistical EDA
