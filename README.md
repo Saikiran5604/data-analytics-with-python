@@ -26,12 +26,12 @@ The purpose of this project is to build strong fundamentals in data analytics be
 ├── README.md # Project documentation
 
 ## How to Run the Notebook
-1.Clone this repository:
-git clone <your-repo-url>
-2.Install the required libraries:
-pip install numpy pandas matplotlib seaborn
-3.Open the notebook:
-jupyter notebook data-analytics-practice.ipynb
+1.Clone this repository: <br>
+git clone <your-repo-url>  <br>
+2.Install the required libraries:   <br>
+pip install numpy pandas matplotlib seaborn  <br>
+3.Open the notebook:  <br>
+jupyter notebook data-analytics-practice.ipynb  <br>
 
 Or open it directly through VS Code.
 
